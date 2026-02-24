@@ -12,3 +12,9 @@ Resumo do projeto:
 criando resourcegroup e sql database para inserir dados
 ![Texto]( Screenshot_20260224_101133_Chrome.jpg)
 Criando storage account para armazenar arquivos
+
+![Texto]( Screenshot_20260224_101608_Chrome.jpg)
+configurando banco de dados e criando a tabela de produtos 
+
+![Texto]( Screenshot_20260224_102030_Chrome.jpg)
+salvando imagens no Blob storage
