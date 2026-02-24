@@ -10,3 +10,5 @@ Aprendi no Azure Cloud Native da DIO
 Resumo do projeto:
 ![Texto]( Screenshot_20260224_095952_Chrome.jpg)
 criando resourcegroup e sql database para inserir dados
+![Texto]( Screenshot_20260224_101133_Chrome.jpg)
+Criando storage account para armazenar arquivos
